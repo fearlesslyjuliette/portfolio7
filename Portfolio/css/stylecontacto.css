@@ -1,0 +1,20 @@
+.contacto{
+    padding-top: 2cm;
+    background-color: darkgray;
+    height: 100vh;
+}
+
+
+.textcontainer2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1cm;
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+    padding-left: 3.5cm;
+    padding-bottom: 2cm;
+}
